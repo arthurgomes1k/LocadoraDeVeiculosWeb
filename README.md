@@ -9,3 +9,5 @@
 
 #### Como rodar?
  Starte o servidor apache-tomcat pelo eclipse e entre no navegador pelo endereço "http://localhost:8080/locadora/".
+
+ Made with ❤️ by **Arthur Gomes**
