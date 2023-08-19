@@ -1,6 +1,7 @@
 # Locadora De Veículos Web
  Um projeto de uma locadora de veículos.
-<img alt="Locadora" src="" width="100" />
+ 
+<img alt="Locadora" src="./src/main/webapp/imagens/locadorahome.png" />
 
 ## Requirements
 - Servidor Tomcat
